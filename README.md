@@ -1,5 +1,9 @@
 # Dechorionation-Cell-Dissociation-DCD-Microfluidic-Device
 
+## Publication
+Publication reference:
+Mohsen Norouzi, Seyedmajid Hosseini, Sydney Barker, Jose Cibelli, Jack Cushman Koch, William Todd Monroe, Terrence R. Tiersch, Jian Xu, Yue Liu. A 3-D Printed Microfluidic Platform for Flow-Induced Dechorionation, Chorion Filtration, and Cell Dissociation of Zebrafish Embryos. Lab Chip 2026; https://doi.org/10.1039/D6LC00569A
+
 ## Overview
 
 This repository provides the design files for the **Dechorionation–Cell Dissociation (DCD) Microfluidic Device**, a high-resolution 3D-printed microfluidic platform developed for integrated zebrafish embryo processing. The device combines mechanical dechorionation, passive chorion filtration, and downstream dissociation of released embryonic contents within a single microfluidic architecture.
